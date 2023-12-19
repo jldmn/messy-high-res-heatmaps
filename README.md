@@ -14,7 +14,6 @@ create_heatmaps.py [-h] -m MODEL_PATH -o OUTPUT_PATH -t TRUE_CLASS
                    SLIDE [SLIDE ...]
 ```
 
-
 Create heatmaps for MIL models.
 
 | Positional Arguments | Description |
